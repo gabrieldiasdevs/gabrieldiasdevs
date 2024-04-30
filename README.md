@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Olá pessoal! Meu nome é Gabriel Dias e tenho 20 anos. Desde pequeno, sempre fui encantado pelo mundo da tecnologia. Essa paixão me motivou a mergulhar profundamente na área, buscando constantemente aprimorar minhas habilidades em Front End. Estou comprometido em oferecer soluções tecnológicas inovadoras, e é por isso que estou dedicando meu tempo e esforço para me tornar um especialista nessa área. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, e complementando meu conhecimento com cursos especializados para me manter atualizado com as últimas tendências e tecnologias.
+Olá pessoal! Meu nome é Gabriel Dias e tenho 20 anos. Desde pequeno, sempre fui encantado pelo mundo da tecnologia. Essa paixão me motivou a mergulhar profundamente na área, buscando constantemente aprimorar minhas habilidades em Front End. Estou comprometido em oferecer soluções tecnológicas inovadoras, e é por isso que estou dedicando meu tempo e esforço para me tornar um especialista na área e conseguir o meu primeiro eságio. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, e complementando meu conhecimento com cursos especializados para me manter atualizado com as últimas tendências e tecnologias.
 
 
 ## 🌐 Redes Sociais:
